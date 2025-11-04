@@ -1,0 +1,22 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend of AI-Powered Job Recommendation & Application Portal",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "keywords": [
+    "backend",
+    "AI-Powered",
+    "Job",
+    "Recommendation",
+    "&",
+    "Application",
+    "Portal",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Nandita Panchal",
+  "license": "ISC"
+}
